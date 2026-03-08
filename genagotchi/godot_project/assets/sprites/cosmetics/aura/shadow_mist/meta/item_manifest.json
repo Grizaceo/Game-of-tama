@@ -1,0 +1,10 @@
+{
+  "item_id": "shadow_mist",
+  "slot_id": "aura",
+  "rarity": "rare",
+  "frame_count": 4,
+  "canvas": [128, 128],
+  "anchor_target": "anchor_body_center",
+  "offset": [0, 0],
+  "tags": ["void", "smoke", "darkness"]
+}

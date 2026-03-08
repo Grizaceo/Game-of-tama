@@ -1,0 +1,10 @@
+{
+  "item_id": "jetpack_proto",
+  "slot_id": "backwear",
+  "rarity": "epic",
+  "frame_count": 4,
+  "canvas": [128, 128],
+  "anchor_target": "anchor_back",
+  "offset": [0, 5],
+  "tags": ["tech", "flight", "industrial"]
+}

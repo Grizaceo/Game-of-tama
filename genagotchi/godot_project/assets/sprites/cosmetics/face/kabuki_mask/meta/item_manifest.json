@@ -1,0 +1,10 @@
+{
+  "item_id": "kabuki_mask",
+  "slot_id": "face",
+  "rarity": "epic",
+  "frame_count": 1,
+  "canvas": [128, 128],
+  "anchor_target": "anchor_face",
+  "offset": [0, 0],
+  "tags": ["traditional", "ornate", "origami"]
+}

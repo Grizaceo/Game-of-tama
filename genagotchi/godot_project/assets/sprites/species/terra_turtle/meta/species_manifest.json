@@ -1,0 +1,26 @@
+{
+  "species_id": "terra_turtle",
+  "canvas": [128, 128],
+  "frame_count": 1,
+  "animation": "idle",
+  "anchors": {
+    "anchor_head": [35, 80],
+    "anchor_face": [30, 85],
+    "anchor_neck": [45, 90],
+    "anchor_body_center": [64, 90],
+    "anchor_back": [64, 60],
+    "anchor_tail": [95, 95],
+    "anchor_ground": [64, 108]
+  },
+  "slots": {
+    "headwear": true,
+    "eyewear": true,
+    "face": true,
+    "neckwear": true,
+    "bodywear": true,
+    "backwear": true,
+    "tail": true,
+    "aura": true,
+    "fx_front": true
+  }
+}

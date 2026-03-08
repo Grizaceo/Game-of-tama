@@ -1,0 +1,10 @@
+{
+  "item_id": "explorer_hat",
+  "slot_id": "headwear",
+  "rarity": "common",
+  "frame_count": 1,
+  "canvas": [128, 128],
+  "anchor_target": "anchor_head",
+  "offset": [0, -2],
+  "tags": ["adventure", "starter", "nature"]
+}

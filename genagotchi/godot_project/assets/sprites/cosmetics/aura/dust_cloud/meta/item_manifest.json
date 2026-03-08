@@ -1,0 +1,10 @@
+{
+  "item_id": "dust_cloud",
+  "slot_id": "aura",
+  "rarity": "uncommon",
+  "frame_count": 4,
+  "canvas": [128, 128],
+  "anchor_target": "anchor_body_center",
+  "offset": [0, 0],
+  "tags": ["ambient", "dirty", "particles"]
+}

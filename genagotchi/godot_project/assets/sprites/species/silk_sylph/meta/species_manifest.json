@@ -1,0 +1,26 @@
+{
+  "species_id": "silk_sylph",
+  "canvas": [128, 128],
+  "frame_count": 1,
+  "animation": "idle",
+  "anchors": {
+    "anchor_head": [64, 30],
+    "anchor_face": [64, 40],
+    "anchor_neck": [64, 45],
+    "anchor_body_center": [64, 70],
+    "anchor_back": [64, 60],
+    "anchor_tail": [64, 100],
+    "anchor_ground": [64, 108]
+  },
+  "slots": {
+    "headwear": true,
+    "eyewear": true,
+    "face": true,
+    "neckwear": true,
+    "bodywear": true,
+    "backwear": true,
+    "tail": true,
+    "aura": true,
+    "fx_front": true
+  }
+}

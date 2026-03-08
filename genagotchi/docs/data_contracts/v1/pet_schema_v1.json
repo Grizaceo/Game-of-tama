@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "pet_id": "string",
+  "owner_id": "string",
+  "generation": 1,
+  "breed_count": 0,
+  "engine": { "mutation_v": 1, "breeding_v": 1 },
+  "ecosystem_hash": 0,
+  "genome": {
+    "head": { "dom": 100, "rec": 100 },
+    "body": { "dom": 200, "rec": 200 },
+    "aura": { "dom": 300, "rec": 300 }
+  },
+  "status": {
+    "hunger": 100,
+    "oxidation_level": 0,
+    "last_interaction": 1709015760
+  },
+  "telemetry": { "valid_clicks_snapshot": 0 }
+}

@@ -1,0 +1,10 @@
+{
+  "item_id": "eternal_flame",
+  "slot_id": "headwear",
+  "rarity": "uncommon",
+  "frame_count": 4,
+  "canvas": [128, 128],
+  "anchor_target": "anchor_head",
+  "offset": [0, -10],
+  "tags": ["fire", "light", "hot"]
+}

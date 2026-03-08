@@ -1,0 +1,7 @@
+{
+  "project_id": "your-firebase-project-id",
+  "api_key": "your-web-api-key",
+  "pet_id": "dev_pet_001",
+  "owner_id": "",
+  "seed_clicks": 10
+}

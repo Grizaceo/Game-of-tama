@@ -1,0 +1,8 @@
+.godot/
+*.translation
+export_presets.cfg
+*.import/
+*.mono/
+.DS_Store
+firebase/.firebaserc
+godot_project/config/firebase_dev.json

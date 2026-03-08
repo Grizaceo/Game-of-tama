@@ -1,0 +1,10 @@
+{
+  "item_id": "cyber_visor",
+  "slot_id": "eyewear",
+  "rarity": "rare",
+  "frame_count": 4,
+  "canvas": [128, 128],
+  "anchor_target": "anchor_face",
+  "offset": [0, 0],
+  "tags": ["tech", "neon", "cyber"]
+}

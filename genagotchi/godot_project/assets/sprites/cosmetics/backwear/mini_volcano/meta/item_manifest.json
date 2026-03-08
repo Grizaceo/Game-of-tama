@@ -1,0 +1,10 @@
+{
+  "item_id": "mini_volcano",
+  "slot_id": "backwear",
+  "rarity": "rare",
+  "frame_count": 4,
+  "canvas": [128, 128],
+  "anchor_target": "anchor_back",
+  "offset": [0, -10],
+  "tags": ["elemental", "fire", "epic"]
+}

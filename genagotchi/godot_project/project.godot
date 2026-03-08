@@ -1,0 +1,27 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="Genagotchi"
+config/description="MVP Single-Player - Spec-Driven Development"
+run/main_scene="uid://dpskr4acaupqf"
+config/features=PackedStringArray("4.5", "Forward Plus")
+config/run/main_scene="res://Main.tscn"
+
+[autoload]
+
+Firebase="*res://src/network/FirebaseCompat.gd"
+FirebaseManager="*res://src/network/FirebaseManager.gd"
+Telemetry="*res://src/core/Telemetry.gd"
+
+[editor_plugins]
+
+enabled=PackedStringArray()

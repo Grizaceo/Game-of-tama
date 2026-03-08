@@ -1,0 +1,10 @@
+{
+  "item_id": "rusty_bucket",
+  "slot_id": "headwear",
+  "rarity": "common",
+  "frame_count": 1,
+  "canvas": [128, 128],
+  "anchor_target": "anchor_head",
+  "offset": [0, -5],
+  "tags": ["industrial", "rusty", "scrap"]
+}

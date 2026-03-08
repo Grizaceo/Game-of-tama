@@ -1,0 +1,10 @@
+{
+  "item_id": "infinite_scarf",
+  "slot_id": "neckwear",
+  "rarity": "rare",
+  "frame_count": 4,
+  "canvas": [128, 128],
+  "anchor_target": "anchor_neck",
+  "offset": [0, 0],
+  "tags": ["wind", "flowing", "silk"]
+}
